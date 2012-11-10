@@ -1,8 +1,0 @@
-http://uni114.ogame.de/api/players.xml - Spieler - Updateinterval 1 day
-http://uni114.ogame.de/api/universe.xml - Planeten - Updateinterval 1 week
-
-http://uni114.ogame.de/api/highscore.xml?category=1&type=1 - Updateinterval 1 hour - ( all possible parameter http://uni670.ogame.org/api/highscore.xml )
-http://uni114.ogame.de/api/alliances.xml - Allianzen - Updateinterval 1 day
-
-http://uni114.ogame.de/api/serverData.xml - ServerInfos - Updateinterval 1 day
-http://uni114.ogame.de/api/playerData.xml?id=<spielerid> - Spielerinfos - Updateinterval 1 w
